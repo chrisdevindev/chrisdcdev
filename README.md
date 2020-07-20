@@ -3,8 +3,8 @@
 ### Founder of @DevInDev
 
 Lover of technology and programming. 
-I’m currently working on Full Stack developer on **@TecNorth** 
-I'm specializing in ReactJs, 
+I’m currently working as Full Stack developer on **@TecNorth** 
+I'm be specializing in ReactJs, 
 React-Native and NodeJS, but I also have experience with:
  - Html;
  - CSS;
