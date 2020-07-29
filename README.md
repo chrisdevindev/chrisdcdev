@@ -10,6 +10,8 @@ React-Native and NodeJS, but I also have experience with:
  - CSS;
  - JavaScript;
  - GatsbyJS;
+ - ReactJS;
+ - React-Native;
  - Java;
  - Python;
  - Typescript;
