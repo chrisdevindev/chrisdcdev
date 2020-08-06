@@ -1,6 +1,8 @@
+
 # Christian Castro🙋🏻‍♂️
 
 ### Founder of @DevInDev
+<img width="30%" align="right" src="https://i.pinimg.com/originals/0e/8b/ba/0e8bba3b043d49c8064324bedd01997f.gif">
 
 Lover of technology and programming. 
 I’m currently working as Full Stack developer on **@TecNorth** 
@@ -13,10 +15,10 @@ React-Native and NodeJS, but I also have experience with:
  - ReactJS;
  - React-Native;
  - Java;
- - Python;
  - Typescript;
  - GraphQL;
  - MySQL, NoSQL, SQLite.
+ 
 
 <!--
 **CCastro01/ccastro01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
