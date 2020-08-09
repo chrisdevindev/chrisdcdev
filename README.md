@@ -1,23 +1,13 @@
 
-# Christian Castro🙋🏻‍♂️
+# What's up guys, my name is Christian Castro and I am the founder of _DevInDev_
+## DevInDev - Developers in Development
 
-### Founder of @DevInDev
 <img width="30%" align="right" src="https://i.pinimg.com/originals/0e/8b/ba/0e8bba3b043d49c8064324bedd01997f.gif">
 
 Lover of technology and programming. 
-I’m currently working as Full Stack developer on **@TecNorth** 
+I’m currently working as Full Stack developer on **@TecNorth**  and I helping young aspirants in the programming world at **@DevInDev.br**
 I'm be specializing in ReactJs, 
-React-Native and NodeJS, but I also have experience with:
- - Html;
- - CSS;
- - JavaScript;
- - GatsbyJS;
- - ReactJS;
- - React-Native;
- - Java;
- - Typescript;
- - GraphQL;
- - MySQL, NoSQL, SQLite.
+React-Native and NodeJS.
  
 
 <!--
