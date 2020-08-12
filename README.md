@@ -1,4 +1,7 @@
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ccastro01&show_icons=true&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccastro01&layout=compact)](https://github.com/ccastro01/github-readme-stats)
+
 
 
 # What's up guys, my name is Christian Castro and I am the founder of _DevInDev_
