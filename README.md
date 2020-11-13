@@ -2,11 +2,11 @@
 
 
 
-# What's up guys, my name is Christian Castro and I am the founder of _DevInDev_
+## What's up guys, my name is Christian Castro and I am the founder of _DevInDev_
 
 <img width="30%" align="right" src="dev.gif">
 
-## DevInDev - Developers in Development
+### DevInDev - Developers in Development
 
 
 Lover of technology and programming. 
