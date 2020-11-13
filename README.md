@@ -6,6 +6,7 @@
 
 <img width="30%" align="right" src="dev.gif">
 
+
 ### DevInDev - Developers in Development
 
 
