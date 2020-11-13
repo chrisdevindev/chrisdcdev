@@ -4,7 +4,7 @@
 
 # What's up guys, my name is Christian Castro and I am the founder of _DevInDev_
 
-<img width="30%" align="right" src="https://i.pinimg.com/originals/0e/8b/ba/0e8bba3b043d49c8064324bedd01997f.gif">
+<img width="30%" align="right" src="dev.gif">
 
 ## DevInDev - Developers in Development
 
