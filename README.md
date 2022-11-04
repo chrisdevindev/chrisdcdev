@@ -4,38 +4,22 @@
 
 ## What's up guys, my name is Christian Castro and I am the founder of _DevInDev_
 
-<!-- <img width="30%" align="right" src="dev.gif"> --!>
+<!-- <img width="30%" align="right" src="dev.gif"> -->
 
 
 ### DevInDev - Developers in Development
 
 
 Lover of technology and programming. 
-I’m currently interning as Back-end developer on **@Dell Lead**  and I helping young aspirants in the programming world at **@DevInDev.br**
+I’m currently interning as Full Stack developer on **@Dell Lead**  and I helping young aspirants in the programming world at **@DevInDev.br**
 I'm be specializing in **ReactJs, 
-React-Native and NodeJS** and now i'm working with **NestJS**.
+React-Native and NodeJS** and now i'm working with **ReactJs**.
  
 
-<!--
-**CCastro01/ccastro01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### 
 
 [![@chrisdcdev's Holopin board](https://holopin.me/chrisdcdev)](https://holopin.io/@chrisdcdev)
-  
-  
 
 
 ### Find me on:
