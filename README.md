@@ -11,7 +11,7 @@
 
 
 Lover of technology and programming. 
-I’m currently interning as Full Stack developer on **@Dell Lead**  and I helping young aspirants in the programming world at **@DevInDev.br**
+I’m currently working as Full Stack developer on **@Dell Lead**  and I helping young aspirants in the programming world at **@DevInDev.br**
 I'm be specializing in **ReactJs, 
 React-Native and NodeJS** and now i'm working with **ReactJs**.
  
